@@ -1,0 +1,3 @@
+/Users/lucas/Documents/projects/faculdade/table/cmake-build-debug/CMakeFiles/table.dir
+/Users/lucas/Documents/projects/faculdade/table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lucas/Documents/projects/faculdade/table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
